@@ -3,3 +3,4 @@ Contents of this repository:
 - Livro_Cronograma_0129_2021.doc ....General aspects of the book project and the working schedule
 - Key+Style+Points.pdf .... Writing manual and style
 - Manuscript+guidelines+for+English+books.pdf ....Book editing manual
+- Key_Style_Points_SocPsychRef.pdf ....Reference APA style
